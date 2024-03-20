@@ -16,7 +16,7 @@ function Navbar() {
         <img
           src={Logo}
           alt="KeyMason Logo"
-          className="w-16 rounded-lg shadow-md shadow-orange-600 hover:scale-75"
+          className="w-10 sm:w-16 rounded-lg shadow-md shadow-orange-600 hover:scale-75"
         />
         <div className="hidden lg:flex justify-between items-center w-full lg:w-auto lg:order-1">
           <ul className="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
