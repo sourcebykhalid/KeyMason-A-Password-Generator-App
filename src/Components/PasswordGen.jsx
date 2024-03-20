@@ -48,7 +48,7 @@ const PasswordGen = () => {
       <img
         src={svg}
         alt=""
-        className=" w-full sm:mt-24 sm:w-3/4 sm:relative right-0 z-30  hover:bg-black hover:rounded-lg hover:shadow-md md:hover:shadow-orange-600"
+        className=" w-full sm:mt-24 sm:w-3/4 sm:relative right-0 z-30  hover:bg-black hover:rounded-lg hover:shadow-md md:hover:shadow-orange-600 transition ease-in-out delay-150"
       />
       <div className="flex flex-col justify-center items-center gap-3 bg-orange-600 p-1 py-14 rounded-lg mb-4 mx-2 shadow-md shadow-black">
         <div className="">
